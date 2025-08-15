@@ -1,0 +1,10 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="30" height="30" rx="6" fill="#F9F9F9" opacity="0.4" />
+
+    <!-- Larger Home Icon -->
+    <path
+        d="M15 7L8 13V23H13V17H17V23H22V13L15 7Z"
+        fill="white"
+    />
+</svg>
